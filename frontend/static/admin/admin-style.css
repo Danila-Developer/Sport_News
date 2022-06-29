@@ -1,0 +1,53 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+   position: relative;
+   height: 100vh;
+   font-family: 'Lato', sans-serif;
+   font-size: 20px;
+}
+
+.header{
+   height: 50px;
+   background-color: #282828;
+}
+
+.side-menu{
+   width: 250px;
+   background-color: #282828;
+   position: absolute;
+   height: 100%;
+   top: 0;
+   left: 0;
+   color: white;
+}
+
+.side-menu__wpapper{
+   position: relative;
+   height: 100%;
+   width: 100%;
+
+}
+
+.menu-button{
+   height: 50px;
+   width: 60px;
+   background-color: #7D7D7D;
+   position: absolute;
+   top: 0;
+   right: 0;
+}
+
+.menu-line{
+   height: 100%;
+   width: 5px;
+   background-color: #7D7D7D;
+   position: absolute;
+   top: 0;
+   right: 0;
+}
+

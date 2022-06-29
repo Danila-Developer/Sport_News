@@ -1,0 +1,22 @@
+{
+  "name": "sport_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danila-Developer/sport_news.git"
+  },
+  "author": "Danila Matyunin <danila.matyunin.1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danila-Developer/sport_news/issues"
+  },
+  "homepage": "https://github.com/Danila-Developer/sport_news#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
